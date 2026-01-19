@@ -1,0 +1,15 @@
+:root[data-theme="dark"] {
+    --bg-dark: hsl(0%, 0%, 0%);
+    --bg: hsl(0, 0%, 5%);
+    --bg-light: hsl(0, 0%, 10%);
+
+    --bg-dark-glass: hsla(0, 0%, 10%, 0.6);
+    --bg-glass: hsla(0, 0%, 15%, 0.6);
+    --bg-light-glass: hsla(0, 0%, 20%, 0.6);
+    --bg-glass-border: hsla(0, 0%, 30%, 0.6);
+    --bg-glass-border-light: hsla(0, 0%, 60%, 0.6);
+
+    --text: hsl(0, 0%, 95%);
+    --text-muted: hsl(0, 0%, 70%);
+
+}
